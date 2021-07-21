@@ -1,9 +1,10 @@
 # App Challenge Week 6 - Leadership Assessment
 
 Download the starter project files as .zip and extract to your desktop or your folder of preference.
-Or you can go your Terminal or Commandline and copy paste: _git clone https://github.com/hikreschool/phoenix-leadership-assessment
 
-You will be using what you've learned from both App Challenge #1 (Oblique Strategies) and App Challenge # 2 (Phoenix Profiles)
+Or you can go your Terminal or Commandline and copy paste: git clone https://github.com/hikreschool/phoenix-leadership-assessment
+
+**Important: You will be using what you've learned from both App Challenge #1 (Oblique Strategies) and App Challenge # 2 (Phoenix Profiles)**
 
 # What You Will Be Using
 1. UIKit, Storyboard, IBOutlets, IBActions
@@ -22,7 +23,7 @@ You will be using what you've learned from both App Challenge #1 (Oblique Strate
 
 # App Demo
  
- <img src="/app-challenge-2-week5.gif" width="712" height="1396"/>
+ <img src="/mockup-app-challenge3.png" width="712" height="1396"/>
 
 
 Copyright 2021 Hikre, Inc. Hikre School
