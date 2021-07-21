@@ -17,11 +17,17 @@ Or you can go your Terminal or Commandline and copy paste: git clone https://git
 
 All the data you will be displaying in the app can be found on the PDF file.
 
-
 # Notes
 1. This app challenge is higher in difficulty
 2. No To-Dos, so you have to think your own approach
 3. Assets already contains photos of Mark Zuckerberg, Jeff Bezos, etc.
+
+# How To Start
+1. Open the project and get familiar with it
+2. Write Pseudocode for your approach on a piece of paper or iPad (human-readable language)
+3. Start writing code (start small and divide and conquer)
+4. Be mindful on doing one particular task at a time (i.e. writing the function for randomNumber())
+
 
 # App Demo
  
