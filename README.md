@@ -26,7 +26,9 @@ All the data you will be displaying in the app can be found on the PDF file.
 1. Open the project and get familiar with it
 2. Write Pseudocode for your approach on a piece of paper or iPad (human-readable language)
 3. Start writing code (start small and divide and conquer)
-4. Be mindful on doing one particular task at a time (i.e. writing the function for randomNumber())
+4. Start on simple tasks like UI-related code
+5. THen, proceed with the logic of the app
+6. Be mindful on doing one particular task at a time (i.e. writing the function for randomNumber())
 
 
 # App Demo
