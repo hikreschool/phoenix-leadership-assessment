@@ -15,10 +15,11 @@ Or you can go your Terminal or Commandline and copy paste: git clone https://git
 # Download This PDF file for the assessment test
 [LEAD-ASSESSMENT-1.pdf](https://github.com/hikreschool/phoenix-leadership-assessment/files/6854926/LEAD-ASSESSMENT-1.pdf)
 
+All the data you will be displaying in the app can be found on the PDF file.
 
 
 # Notes
-1. This challenge is more difficult than the past challenges
+1. This app challenge is higher in difficulty
 2. No To-Dos, so you have to think your own approach
 3. Assets already contains photos of Mark Zuckerberg, Jeff Bezos, etc.
 
