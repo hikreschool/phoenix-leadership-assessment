@@ -19,7 +19,7 @@ Or you can go your Terminal or Commandline and copy paste: git clone https://git
 
 # Notes
 1. This challenge is more difficult than the past challenges
-2. No To-Dos, so you have to think of your approach
+2. No To-Dos, so you have to think your own approach
 3. Assets already contains photos of Mark Zuckerberg, Jeff Bezos, etc.
 
 # App Demo
