@@ -9,8 +9,7 @@ Or you can go your Terminal or Commandline and copy paste: git clone https://git
 # What You Will Be Using
 1. UIKit, Storyboard, IBOutlets, IBActions
 2. Multiple Controllers, Views, Models
-3. Classes and Objects
-4. Data Models
+3. Data Models
 
 # Download This PDF file for the assessment test
 [LEAD-ASSESSMENT-1.pdf](https://github.com/hikreschool/phoenix-leadership-assessment/files/6854926/LEAD-ASSESSMENT-1.pdf)
