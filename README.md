@@ -23,7 +23,7 @@ Or you can go your Terminal or Commandline and copy paste: git clone https://git
 
 # App Demo
  
- <img src="/mockup-app-challenge3.png" width="712" height="1396"/>
+ <img src="/mockup-app-challenge3.png"/>
 
 
 Copyright 2021 Hikre, Inc. Hikre School
